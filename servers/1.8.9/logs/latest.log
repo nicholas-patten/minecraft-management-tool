@@ -1,0 +1,35 @@
+[18:46:13] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[18:46:13] [Server thread/INFO]: Loading properties
+[18:46:13] [Server thread/INFO]: Default game type: SURVIVAL
+[18:46:13] [Server thread/INFO]: Generating keypair
+[18:46:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:46:13] [Server thread/INFO]: Using epoll channel type
+[18:46:13] [Server thread/INFO]: Preparing level "world"
+[18:46:13] [Server thread/INFO]: Preparing start region for level 0
+[18:46:14] [Server thread/INFO]: Preparing spawn area: 8%
+[18:46:15] [Server thread/INFO]: Preparing spawn area: 17%
+[18:46:16] [Server thread/INFO]: Preparing spawn area: 38%
+[18:46:17] [Server thread/INFO]: Preparing spawn area: 59%
+[18:46:18] [Server thread/INFO]: Preparing spawn area: 74%
+[18:46:19] [Server thread/INFO]: Preparing spawn area: 91%
+[18:46:20] [Server thread/INFO]: Done (6.728s)! For help, type "help" or "?"
+[18:47:07] [User Authenticator #1/INFO]: UUID of player EMERALD_COAST is 101ceeab-a137-4432-939a-1fcda3422b05
+[18:47:07] [Server thread/INFO]: EMERALD_COAST[/213.122.135.50:6104] logged in with entity id 2501 at (-77.5, 71.0, 260.5)
+[18:47:07] [Server thread/INFO]: EMERALD_COAST joined the game
+[18:47:55] [Server thread/INFO]: EMERALD_COAST has just earned the achievement [Taking Inventory]
+[18:48:37] [Server thread/INFO]: EMERALD_COAST has just earned the achievement [Getting Wood]
+[19:05:05] [Server thread/INFO]: EMERALD_COAST was slain by Spider
+[19:21:42] [Server thread/INFO]: [EMERALD_COAST: Set own game mode to Creative Mode]
+[19:50:35] [Server thread/INFO]: [EMERALD_COAST: Stopping the server]
+[19:50:35] [Server thread/INFO]: Stopping server
+[19:50:35] [Server thread/INFO]: Saving players
+[19:50:35] [Server thread/INFO]: EMERALD_COAST lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.lang.StackOverflowError], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[19:50:35] [Server thread/INFO]: EMERALD_COAST left the game
+[19:50:35] [Server thread/INFO]: Saving worlds
+[19:50:35] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:50:35] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[19:50:35] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[19:50:35] [Server Shutdown Thread/INFO]: Stopping server
+[19:50:35] [Server Shutdown Thread/INFO]: Saving players
+[19:50:35] [Server Shutdown Thread/INFO]: Saving worlds
+[19:50:35] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
